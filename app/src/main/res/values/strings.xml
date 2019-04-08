@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TDoo</string>
+
+    // sharedPreference
+    <string name="prefs_name">preferences</string>
+    <string name="prefs_rememberMe">rememberMe</string>
+    <string name="prefs_usernameOrEmail">usernameOrEmail</string>
+    <string name="prefs_password">password</string>
+</resources>
