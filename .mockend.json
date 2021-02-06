@@ -1,10 +1,10 @@
 {
-  "baseData":{
+  "BaseData":{
     "season":["Spring","Summer", "Autum", "Winter"],
     "customerSegment":["Women","Men","Kids","Elders"],
     "productType":["Top","Bottom","Dress","Skirt","Outer wear"]
   },
-  "product":{
+  "Product":{
     "season":"Summer",
     "customerSegment":"Women",
     "productType": "Dress",
